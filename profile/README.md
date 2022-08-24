@@ -1,3 +1,3 @@
-# Welcome to the GitHub organization of [INFO](https://info.nl/en/)! 
+# Welcome to the GitHub organization of INFO! 
 
-We are INFO, your digital partner who helps translate your business challenges into digital products with impact, since 1994.
+We are [INFO](https://info.nl/en/), your digital partner who helps translate your business challenges into digital products with impact, since 1994.
